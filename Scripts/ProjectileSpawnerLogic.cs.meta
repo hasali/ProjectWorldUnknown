@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 334b30883e5337b4fa76683f673849e9
+timeCreated: 1512784606
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - obj: {instanceID: 0}
+  - obj2: {instanceID: 0}
+  - red: {instanceID: 0}
+  - blue: {instanceID: 0}
+  - stunnerAudio: {fileID: 8300000, guid: c0ac0614aa7b64de7ba2f569a0793a16, type: 3}
+  - spearAudio: {fileID: 8300000, guid: 52fa067c25c5c401b811eb86d142287e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

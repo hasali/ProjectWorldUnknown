@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ed0b155f2d70394ea4f7e3f4f5853ac
+timeCreated: 1512785626
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - atkClip: {fileID: 8300000, guid: 13294ff9ac4314a8cb3e0f6777452308, type: 3}
+  - atkSrc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
